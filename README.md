@@ -59,6 +59,10 @@ The project is worth 15 points and the following rubric will be used to grade yo
 | Create Working Github Actions Pipeline with Workload Identity Pool and Provider | 3      |
 | Total                                                                           | 15     |
 
+
+## IP ADDRESS FOR LB
+34.117.2.206
+
 ## Notes
 - I am using an opensource project called [Hugo](https://gohugo.io/installation/) to generate my static website.
   - my repository is [here](https://github.com/dansc0de/dansc0de.run) and it is on the [internet](htttps://dansc0de.run)
